@@ -1,0 +1,30 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+コードの世界:
+  name: コードの世界
+  price: 3000
+  published_at: 2009-05-26
+  author: matz
+  tags: programming, ruby
+
+コードの未来:
+  name: コードの未来
+  price: 2800
+  published_at: 2012-05-12
+  author: matz
+  tags: programming, ruby
+
+
+秘密の国のアリス:
+  name: 秘密の国のアリス
+  price: 3240
+  published_at: 2003-09-30
+  author: hyuki
+
+Java言語で学ぶデザインパターン入門:
+  name: Java言語で学ぶデザインパターン入門
+  price: 4104
+  published_at: 2004-06-19
+  author: hyuki
+  tags: programming, java
+

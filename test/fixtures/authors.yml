@@ -1,0 +1,10 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+hyuki:
+  name: 結城浩
+
+matz:
+  name: まつもとゆきひろ
+
+empty:
+  name: ''

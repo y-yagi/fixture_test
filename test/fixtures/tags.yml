@@ -1,0 +1,10 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+programming:
+  name: プログラミング
+
+ruby:
+  name: ruby
+
+java:
+  name: Java
