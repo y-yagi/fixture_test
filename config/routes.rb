@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :stores
+
   resources :books
 
   resources :tags

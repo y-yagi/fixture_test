@@ -8,3 +8,8 @@ ruby:
 
 java:
   name: Java
+
+<% 10.times do |i| %>
+tag_<%= i %>:
+  name: tag<%= i %>
+<% end %>

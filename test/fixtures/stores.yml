@@ -1,0 +1,22 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+DEFAULTS: &DEFAULTS
+  closed: false
+
+MIYAWAKI_GROUP: &MIYAWAKI_GROUP
+  <<: *DEFAULTS
+  group_id: 10
+
+iwase:
+  <<: *DEFAULTS
+  name: 岩瀬書店
+  address: どこか
+  tel: xxxx-xxxx-xxx
+  email: shoten@exmaple.com
+
+miyawaki_honten:
+  <<: *MIYAWAKI_GROUP
+  name: 宮脇書店 本店
+  address: どこか2
+  tel: xxxx-xxxx-000
+  email: miyawaki@exmaple.com
