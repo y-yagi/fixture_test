@@ -3,7 +3,6 @@ require 'test_helper'
 class StoresControllerTest < ActionController::TestCase
   setup do
     @store = stores(:iwase)
-byebug.pry
   end
 
   test "should get index" do
