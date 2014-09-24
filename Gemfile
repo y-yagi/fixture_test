@@ -42,6 +42,7 @@ gem 'rails-html-sanitizer', '~> 1.0'
 group :development, :test do
   # Call 'debugger' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
+  gem 'pry-rails'
 
   # Access an IRB console on exceptions page and /console in development
 #  gem 'web-console', '~> 2.0.0.beta3'

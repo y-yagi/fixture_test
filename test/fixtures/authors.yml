@@ -4,7 +4,10 @@ hyuki:
   name: 結城浩
 
 matz:
-  name: まつもとゆきひろ
+  name: まつもとゆきひろ is $LABEL
 
 empty:
   name: ''
+
+test:
+  name: $LABEL
